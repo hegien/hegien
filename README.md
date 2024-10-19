@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @hegien
-- 👀 I’m interested in topics arround ioBroker.
-- 🌱 I’m currently learning how to use ioBroker and HABpanel for visualization.
+- 👀 I’m interested in topics arround Home Assistant.
+- 🌱 I’m currently learning scripting with python and how to use githup to manage my projects.
 - 💞️ I’m looking to collaborate on SmartHome topics.
-- 📫 How to reach me somehow here on GitHub. Im new. Dont know how communication works on ths platform 😊.
+- 📫 I do all this just for fun 😊.
 
 <!---
 hegien/hegien is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
